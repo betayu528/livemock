@@ -1,0 +1,9 @@
+{
+    "trackerServer": "10.10.10.11:15000",
+    "localIp": "10.10.10.11",
+    "recvThreadNum": 10,
+    "procThreadNum": 10,
+    "sndThreadNum": 10,
+    "aesAuthPasswd": "gvqlg****ufvfO4j=jb",
+    "clientMax": 20
+}
